@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ovesná kaše</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; background-color: #f8f8f8; }
+        h1 { color: #ff6600; }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Ovesná kaše</h1>
+        <img src="icons/oatmeal.png" alt="Ovesná kaše" width="150">
+        <h2>Ingredience:</h2>
+        <ul>
+            <li>50g ovesných vloček</li>
+            <li>200ml mléka nebo vody</li>
+            <li>Banán, med, skořice</li>
+        </ul>
+
+        <h2>Postup:</h2>
+        <p>Ovesné vločky zalijeme mlékem a povaříme 5 minut. Přidáme nakrájený banán a med.</p>
+
+        <h2>Makroživiny:</h2>
+        <p>Bílkoviny: 8g, Sacharidy: 40g, Tuky: 5g</p>
+
+        <a href="index.html">🔙 Zpět</a>
+    </div>
+
+</body>
+</html>
